@@ -6,9 +6,9 @@ I am currently pursing a Bachelor's degree in Computer Science with a Minor in A
 
 
 # Contact Information
-UTRGV email: dayanne.ramos01@utrgv.edu
-Gmail: ddramos009@gmail.com
-Linkin: www.linkedin.com/in/dayanne-ramos 
+- UTRGV email: dayanne.ramos01@utrgv.edu
+- Gmail: ddramos009@gmail.com
+- Linkin: www.linkedin.com/in/dayanne-ramos 
 
 
 # Programming Languages
